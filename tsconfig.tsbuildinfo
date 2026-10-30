@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/format.ts","./src/main.tsx","./src/storage.ts","./src/components/Inputs.tsx","./src/components/Landing.tsx","./src/components/Results.tsx","./src/engine/engine.test.ts","./src/engine/finance.ts","./src/engine/index.ts","./src/engine/simulate.ts","./src/engine/templates.ts","./src/engine/types.ts","./vite.config.ts"],"version":"5.6.3"}
