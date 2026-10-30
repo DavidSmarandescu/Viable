@@ -2,6 +2,8 @@
 
 > Crea el plan de viabilidad de un negocio en minutos: cuenta de resultados a 5 años, tesorería mes a mes, punto de equilibrio, VAN, TIR, escenarios y sensibilidad. Todo en el navegador.
 
+**Demo:** https://davidsmarandescu.github.io/Viable/
+
 ![Simulador en escritorio](docs/screenshots/desktop-simulador.png)
 
 ## El problema
