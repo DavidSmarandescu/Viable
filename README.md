@@ -94,3 +94,11 @@ src/
   styles.css     Sistema visual (blanco con acentos naranjas) y estilos de impresión
 docs/screenshots Capturas de escritorio y móvil, e informe PDF de ejemplo
 ```
+
+## Licencia
+
+Copyright (C) 2026 David Smarandescu
+
+Viable es software libre: puedes usarlo, estudiarlo, modificarlo y redistribuirlo bajo los términos de la **Licencia Pública General de GNU (GPL), versión 3 o posterior**, publicada por la Free Software Foundation. Si distribuyes una versión modificada, también debe publicarse bajo la GPL con su código fuente.
+
+Se distribuye SIN NINGUNA GARANTÍA. Consulta el archivo [LICENSE](LICENSE) para ver el texto completo.
